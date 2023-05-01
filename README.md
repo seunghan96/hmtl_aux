@@ -44,7 +44,7 @@ $ python generate_dataset.py --doll=6 --action=3 --program=4
 
 <br>
 
-Example:
+Example
 
 ```bash
 $ python clustering.py --grid_x=2 --grid_y=3 --iter=20000
@@ -62,9 +62,9 @@ $ python clustering.py --grid_x=2 --grid_y=3 --iter=20000
 - Output files
   - Clustered Customer Data with Task Labels: `cluster_df_merged.csv`
 
+<br>
 
-
-예시
+Example
 
 ```bash
 $ python task_label.py
@@ -81,7 +81,7 @@ Experiment Settings:
 
 <br>
 
-Example:
+Example
 
 ```bash
 $ python model_MTL.py --epoch=200
